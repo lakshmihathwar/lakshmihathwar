@@ -25,6 +25,15 @@ I love working with data, building clean dashboards, and creating user-friendly 
 * Suggests specialists, health advice, and appointment scheduling
 * Designed with user accessibility and real-world use cases in mind
 
+# 🧮 NumPy Mathematical Calculator
+**Python • NumPy • Jupyter Notebook**
+
+🔗 *Repo:* [numpy-major](https://github.com/lakshmihathwar)
+
+* A comprehensive Jupyter Notebook showcasing NumPy fundamentals through an interactive mathematical calculator.  
+* Performs array operations, arithmetic calculations, statistical analysis, and data manipulation using practical numerical examples.
+
+
 ---
 
 ## 🛠️ **Tech Stack & Skills**
