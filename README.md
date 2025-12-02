@@ -37,8 +37,9 @@ I love working with data, building clean dashboards, and creating user-friendly 
 **Python • Pandas • NumPy • Jupyter Notebook**
 
 🔗 *Repo:* [pandas](https://github.com/lakshmihathwar/pandas.git)
-An end-to-end data analysis project covering exploration, cleaning, feature engineering, and advanced analytics.
-Includes country-wise insights, time-based trends, customer and product analysis, NumPy operations, and exportable reports.
+
+* An end-to-end data analysis project covering exploration, cleaning, feature engineering, and advanced analytics.
+* Includes country-wise insights, time-based trends, customer and product analysis, NumPy operations, and exportable reports.
 
 ---
 
