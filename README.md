@@ -18,14 +18,14 @@ I love working with data, building clean dashboards, and creating user-friendly 
 ## 🚀 **Projects**
 
 ### **🩺 Future Med — AI-Based Disease Prediction System**
-
+**•HTML •CSS •Javascript •Python-Flask •Streamlit •MLP**
 🔗 *Repo:*
 
-* Predicts diseases using **MLP**, **Flask**, and **Streamlit**
+* Predicts diseases using **MLP**.
 * Suggests specialists, health advice, and appointment scheduling
 * Designed with user accessibility and real-world use cases in mind
 
-# 🧮 NumPy Mathematical Calculator
+### 🧮 NumPy Mathematical Calculator
 **Python • NumPy • Jupyter Notebook**
 
 🔗 *Repo:* [numpy-major](https://github.com/lakshmihathwar/numpy.git)
@@ -33,6 +33,12 @@ I love working with data, building clean dashboards, and creating user-friendly 
 * A comprehensive Jupyter Notebook showcasing NumPy fundamentals through an interactive mathematical calculator.  
 * Performs array operations, arithmetic calculations, statistical analysis, and data manipulation using practical numerical examples.
 
+### 📊 Retail Data Analysis Project
+**Python • Pandas • NumPy • Jupyter Notebook**
+
+🔗 *Repo:* [pandas](https://github.com/lakshmihathwar/pandas.git)
+An end-to-end data analysis project covering exploration, cleaning, feature engineering, and advanced analytics.
+Includes country-wise insights, time-based trends, customer and product analysis, NumPy operations, and exportable reports.
 
 ---
 
