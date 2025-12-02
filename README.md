@@ -28,7 +28,7 @@ I love working with data, building clean dashboards, and creating user-friendly 
 # 🧮 NumPy Mathematical Calculator
 **Python • NumPy • Jupyter Notebook**
 
-🔗 *Repo:* [numpy-major](https://github.com/lakshmihathwar)
+🔗 *Repo:* [numpy-major](numpy_major)
 
 * A comprehensive Jupyter Notebook showcasing NumPy fundamentals through an interactive mathematical calculator.  
 * Performs array operations, arithmetic calculations, statistical analysis, and data manipulation using practical numerical examples.
