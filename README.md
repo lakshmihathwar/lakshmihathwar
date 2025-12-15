@@ -19,6 +19,7 @@ I love working with data, building clean dashboards, and creating user-friendly 
 
 ### **🩺 Future Med — AI-Based Disease Prediction System**
 **•HTML •CSS •Javascript •Python-Flask •Streamlit •MLP**
+
 🔗 *Repo:*
 
 * Predicts diseases using **MLP**.
