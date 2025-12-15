@@ -41,6 +41,15 @@ I love working with data, building clean dashboards, and creating user-friendly 
 * An end-to-end data analysis project covering exploration, cleaning, feature engineering, and advanced analytics.
 * Includes country-wise insights, time-based trends, customer and product analysis, NumPy operations, and exportable reports.
 
+### 📊 Power BI Data Analysis Project
+
+**Power BI • DAX • Power Query • Data Visualization**
+
+🔗 Repo: 🔗 *Repo:* [power-bi](https://github.com/lakshmihathwar/power-bi.git)
+
+* An end-to-end business intelligence project covering data cleaning, transformation, modeling, and dashboard creation.
+* Includes KPI tracking, time-based trends, category and region-wise analysis, interactive filters, and insight-driven visual reports.
+
 ---
 
 ## 🛠️ **Tech Stack & Skills**
