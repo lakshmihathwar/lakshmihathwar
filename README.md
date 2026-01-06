@@ -10,7 +10,7 @@ I'm a passionate Computer Science graduate exploring the world of **data science
 I love working with data, building clean dashboards, and creating user-friendly applications.
 
 🌱 *Currently learning:* Core Python, Python Libraries, SQL, PowerBI and AI/ML.  
-🎯 *Career interests:* Data Science, ML Engineering, Analytics, Front end dev.  
+🎯 *Career interests:* Data Analysis, Data Science, ML Engineering, Front end dev.  
 💡 *Goal:* Build impactful, data-driven solutions that make a difference.  
 
 ---
